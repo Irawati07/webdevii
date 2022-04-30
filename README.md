@@ -1,3 +1,3 @@
 # webdevii
-Nama  :   Irawati
-NIM   :   D0220352
+Irawati 
+D0220352
